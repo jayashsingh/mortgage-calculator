@@ -2,11 +2,17 @@
     <string name="app_name">Assignment 1</string>
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
+    <string name="first_fragment_label">Home</string>
+    <string name="second_fragment_label">Calculator</string>
     <string name="next">Next</string>
     <string name="calculate">Calculate</string>
 
     <string name="title">Mortgage Calculator</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="enter_amount">Principal Amount</string>
+    <string name="interest_rate">Interest Rate</string>
+    <string name="amortization_period">Amortization Period</string>
+    <string name="your_monthly_emi_will_be">Your monthly EMI will be:</string>
+    <string name="please_fill_out_all_the_above_fields">Please fill out all the above fields</string>
+    <string name="mortgage_calculator">Mortgage Calculator</string>
 </resources>
